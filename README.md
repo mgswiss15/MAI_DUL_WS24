@@ -20,6 +20,6 @@ Background material will be provided through this repo.
 
 ### Homeworks
 
-[HW1 Q1] - discussion 8/10, due 15/10
+[HW1 Q1](homeworks/hw1/) - discussion 8/10, due 15/10
 
 
