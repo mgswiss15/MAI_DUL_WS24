@@ -15,6 +15,8 @@ Background material will be provided through this repo.
 
 ## Schedule (very tentative)
 
+For each date topics planned for discussion are listed. You should look at the material before to be able to discuss.
+
 * 9/10
   * Intro [slides](https://drive.google.com/file/d/1j0BCV2ye9feD_u-rya5yhIE72p8mqbFc/view?usp=drive_link), [video](https://www.youtube.com/watch?v=tFR6Likf4VI) 23:25 - end
   * Autoregressive models: [slides](https://drive.google.com/file/d/10nR2_g1x2kUMnpwmCm1bF9WUpoYe92fX/view?usp=drive_link), [video](https://www.youtube.com/watch?v=2ojJUSMf-_g) 00:00 - 26:45
