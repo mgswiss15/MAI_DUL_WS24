@@ -20,6 +20,12 @@ Background material will be provided through this repo.
 
 ### Homeworks
 
-[HW1 Q1](homeworks/hw1/) - discussion 8/10, due 15/10
+**HowTo:** 
+1. Fork the repository (see ["Working with forks"](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks)).
+2. Work in the forked repository as you like - create branches, commits etc.
+3. Once done with the HW, run the HW jupyter notebook from the beginning to the end and commit to freeze the state
+4. Sent me via mattermost the link to the specific commit in your fork on GitHub
+
+[HW1 Q1](homeworks/hw1/hw1_Q1.ipynb) - discussion 8/10, due 15/10
 
 
