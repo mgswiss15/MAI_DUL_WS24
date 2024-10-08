@@ -15,8 +15,13 @@ Background material will be provided through this repo.
 
 ### Videos
 
-* Intro [slides](https://drive.google.com/file/d/1j0BCV2ye9feD_u-rya5yhIE72p8mqbFc/view?usp=drive_link), [video](https://www.youtube.com/watch?v=tFR6Likf4VI) - 23:25-end, due 8/10
-* Autoregressive models [slides](https://drive.google.com/file/d/10nR2_g1x2kUMnpwmCm1bF9WUpoYe92fX/view?usp=drive_link), [video](https://www.youtube.com/watch?v=2ojJUSMf-_g) - 00:00 - 26:45, due 8/10
+* Intro [slides](https://drive.google.com/file/d/1j0BCV2ye9feD_u-rya5yhIE72p8mqbFc/view?usp=drive_link), [video](https://www.youtube.com/watch?v=tFR6Likf4VI) - 23:25-end, due 9/10
+* Autoregressive models [slides](https://drive.google.com/file/d/10nR2_g1x2kUMnpwmCm1bF9WUpoYe92fX/view?usp=drive_link), [video](https://www.youtube.com/watch?v=2ojJUSMf-_g) - 00:00 - 26:45, due 9/10
+  * 26:45 - 1:11:15, due 11/10
+
+### Papers
+* Oord, A. van den, Kalchbrenner, N., & Kavukcuoglu, K. (2016). Pixel Recurrent Neural Networks (arXiv:1601.06759). arXiv. https://doi.org/10.48550/arXiv.1601.06759 - focus on sections 1., 2., and PixelCNN parts of section 3 - due 11/10
+
 
 ### Homeworks
 
@@ -26,6 +31,8 @@ Background material will be provided through this repo.
 3. Once done with the HW, run the HW jupyter notebook from the beginning to the end and commit to freeze the state
 4. Sent me via mattermost the link to the specific commit in your fork on GitHub
 
-[HW1 Q1](homeworks/hw1/hw1_Q1.ipynb) - discussion 8/10, due 15/10
+* [HW1 Q1](homeworks/hw1/hw1_Q1.ipynb) - discussion 9/10, due 15/10
+* [HW1 Q2 part a](homeworks/hw1/hw1_Q2_a.ipynb) - discussion 11/10, due 22/10
+* [HW1 Q2 part b](homeworks/hw1/hw1_Q2_b_optional.ipynb) - due end of semester
 
 
