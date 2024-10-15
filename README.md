@@ -24,7 +24,7 @@ For each date topics planned for discussion are listed. You should look at the m
 * 11/10
   * Autoregressive models: [slides](https://drive.google.com/file/d/10nR2_g1x2kUMnpwmCm1bF9WUpoYe92fX/view?usp=drive_link), [video](https://www.youtube.com/watch?v=2ojJUSMf-_g) 26:45 - 1:11:15
   * [HW1 Q2 part a](homeworks/hw1/hw1_Q2_a.ipynb)
-* 16/10
+* 16/10 - **rescheduled to Tuesday 15/10 at 16:00 in CAIRO!**
   * [HW1 Q1](homeworks/hw1/hw1_Q1.ipynb) - **due**
   * Autoregressive models: [slides](https://drive.google.com/file/d/10nR2_g1x2kUMnpwmCm1bF9WUpoYe92fX/view?usp=drive_link), [video](https://www.youtube.com/watch?v=2ojJUSMf-_g) 1:11:15 - end
   * [HW1 Q3 part a, b](homeworks/hw1/hw1_Q3_ab.ipynb), [HW1 Q5](homeworks/hw1/hw1_Q5.ipynb)
