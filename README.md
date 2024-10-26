@@ -11,66 +11,72 @@ Background material will be provided through this repo.
 **Communication primary:** https://mattermost.fiw.fhws.de/mai/channels/dul_ws24  
 (If still not on mattermost: https://mattermost.fiw.fhws.de/signup_user_complete/?id=tca4uuxfeprdxeaeoc57hakqqr&md=link&sbr=su )
 
-**Lectures:** Wed 8:15-9:45 SHL, Fri 13:30-15:00 CAIRO
+**Lectures:** Wed 10:00-11:30 SHL, Fri 13:30-15:00 CAIRO
 
 ## Schedule (very tentative)
 
 For each date topics planned for discussion are listed. You should look at the material before to be able to discuss.
 
-* 9/10
+* M 9/10
   * Intro [slides](https://drive.google.com/file/d/1j0BCV2ye9feD_u-rya5yhIE72p8mqbFc/view?usp=drive_link), [video](https://www.youtube.com/watch?v=tFR6Likf4VI) 23:25 - end
   * Autoregressive models: [slides](https://drive.google.com/file/d/10nR2_g1x2kUMnpwmCm1bF9WUpoYe92fX/view?usp=drive_link), [video](https://www.youtube.com/watch?v=2ojJUSMf-_g) 00:00 - 26:45
   * [HW1 Q1](homeworks/hw1/hw1_Q1.ipynb)
-* 11/10
+* F 11/10
   * Autoregressive models: [slides](https://drive.google.com/file/d/10nR2_g1x2kUMnpwmCm1bF9WUpoYe92fX/view?usp=drive_link), [video](https://www.youtube.com/watch?v=2ojJUSMf-_g) 26:45 - 1:11:15
   * [HW1 Q2 part a](homeworks/hw1/hw1_Q2_a.ipynb)
-* 16/10 - **rescheduled to Tuesday 15/10 at 16:00 in CAIRO!**
+* M 16/10 - **rescheduled to Tuesday 15/10 at 16:00 in CAIRO!**
   * [HW1 Q1](homeworks/hw1/hw1_Q1.ipynb) - **due**
   * Autoregressive models: [slides](https://drive.google.com/file/d/10nR2_g1x2kUMnpwmCm1bF9WUpoYe92fX/view?usp=drive_link), [video](https://www.youtube.com/watch?v=2ojJUSMf-_g) 1:11:15 - end
   * [HW1 Q3 part a, b](homeworks/hw1/hw1_Q3_ab.ipynb), [HW1 Q5](homeworks/hw1/hw1_Q5.ipynb)
-* 18/10 - **NO COURSE! - MG away**
-* 23/10 - **NO COURSE! - day off**
-* 25/10
-  * [HW1 Q2 part a](homeworks/hw1/hw1_Q2_a.ipynb), [HW1 Q3 part a, b](homeworks/hw1/hw1_Q3_ab.ipynb), [HW1 Q5](homeworks/hw1/hw1_Q5.ipynb) - **due**
-* 30/10
+* F 18/10 - **NO COURSE! - MG away**
+* W 23/10 - **NO COURSE! - day off**
+* F 25/10
+  * [HW1 Q2 part a](homeworks/hw1/hw1_Q2_a.ipynb), [HW1 Q3 part a, b](homeworks/hw1/hw1_Q3_ab.ipynb), [HW1 Q5](homeworks/hw1/hw1_Q5.ipynb) - **Q&A**
+* W 30/10
+  * [HW1 Q2 part a](homeworks/hw1/hw1_Q2_a.ipynb) - **due before the course**, discussion in the course
+  * [HW1 Q3 part a, b](homeworks/hw1/hw1_Q3_ab.ipynb), [HW1 Q5](homeworks/hw1/hw1_Q5.ipynb) -  **Q&A**
   * Latent variable models: [slides](https://drive.google.com/file/d/1yt2oIqUL4aXUKBX1en7VaYRcN-ZjMwtD/view?usp=drive_link), [video](https://www.youtube.com/watch?v=NlIqjtbjjRE) 0:00 - 1:23:25 
-* 1/11 - **NO COURSE! - day off** 
-* 6/11
-  * HW2 Q1, HW2 Q2 part a
-* 8/11
+* F 1/11 - **NO COURSE! - day off** 
+* W 6/11
+  * [HW1 Q3 part a, b](homeworks/hw1/hw1_Q3_ab.ipynb), [HW1 Q5](homeworks/hw1/hw1_Q5.ipynb) - **due before the course**, discussion in the course
+  * HW2 Q1, HW2 Q2 part a - **Q&A**
+* F 8/11
+  * HW2 Q1, HW2 Q2 part a - **Q&A**
   * Latent variable models: [slides](https://drive.google.com/file/d/1yt2oIqUL4aXUKBX1en7VaYRcN-ZjMwtD/view?usp=drive_link), [video](https://www.youtube.com/watch?v=NlIqjtbjjRE) 1:23:25 - end
-* 13/11 - **NO COURSE! (test lectures professorship "AI and Cybersecurity")**
-* 15/11 - **NO COURSE! (AI Barcamp)**
-* 20/11
-  * HW2 Q1, HW2 Q2 part a - **due**
-* 22/11 - **NO COURSE! - MG away**
-* 27/11
+* W 13/11 - **NO COURSE! (test lectures professorship "AI and Cybersecurity" - you are welcome to join)**
+* F 15/11
+  * HW2 Q1 - **due before the course**, discussion in the course
+  * HW2 Q2 part a - **Q&A**
+* W 20/11
+  * HW2 Q2 part a - **due before the course**, discussion in the course
+* F 22/11 - **NO COURSE! - faculty away**
+* W 27/11
   * Generative Adversarial Networks / Implicit Models: [slides](https://drive.google.com/file/d/1yTNsk6swCp1pnuFVCarNPbuGmfOan_dN/view?usp=drive_link), [video](https://www.youtube.com/watch?v=lFAHPJS2HHc) - complete
-* 29/11
+* F 29/11
   * HW3 Q1, Q2
-* 4/12
+* W 4/12
   * HW3 Q1, Q2
-* 6/12
+* F 6/12
   * HW3 Q1, Q2 - **due**
-* 11/12
+* W 11/12
   * Diffusion models: [slides](https://drive.google.com/file/d/1JfY5gh8VmUksB4AT2qKg_C0roMtLieGA/view?usp=drive_link), [video](https://www.youtube.com/watch?v=DsEDMjdxOv4) 0:00 - 51:35
-* 13/12
+* F 13/12
   * HW4 Q1, Q2
-* 18/12
+* W 18/12
   * Diffusion models: [slides](https://drive.google.com/file/d/1JfY5gh8VmUksB4AT2qKg_C0roMtLieGA/view?usp=drive_link), [video](https://www.youtube.com/watch?v=DsEDMjdxOv4) 51:35 - end
-* 20/12
+* F 20/12
   * HW4 Q1, Q2
-* 8/1
+* W 8/1
   * HW4 Q1, Q2 - **due**
-* 10/1
+* F 10/1
   * Self-supervised learning: [slides](https://drive.google.com/file/d/1EwLaYmlTB0GbjviVUAmek3JPBWCQ00ZO/view?usp=drive_link), [video](https://youtu.be/s6xh6oKq1C0)
-* 15/1
+* W 15/1
   * Semi-supervised learning: [slides](https://drive.google.com/file/d/1EwLaYmlTB0GbjviVUAmek3JPBWCQ00ZO/view?usp=drive_link), [video](https://youtu.be/s6xh6oKq1C0)
-* 17/1
+* F 17/1
   * HW optional parts
-* 22/1
+* W 22/1
   * HW optional parts
-* 24/1
+* F 24/1
   * HW optional parts - **due**
 
 
