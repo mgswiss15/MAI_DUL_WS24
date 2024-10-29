@@ -85,11 +85,11 @@ def q1_save_results(part, dset_id, fn):
           f'KL Loss: {test_losses[-1, 2]:.4f}')
 
     plot_vae_training_plot(train_losses, test_losses, f'Q1({part}) Dataset {dset_id} Train Plot',
-                           f'results/q1_{part}_dset{dset_id}_train_plot.png')
+                           f'results/hw2/q1_{part}_dset{dset_id}_train_plot.png')
     save_scatter_2d(samples_noise, title='Samples with Decoder Noise',
-                    fname=f'results/q1_{part}_dset{dset_id}_sample_with_noise.png')
+                    fname=f'results/hw2/q1_{part}_dset{dset_id}_sample_with_noise.png')
     save_scatter_2d(samples_nonoise, title='Samples without Decoder Noise',
-                    fname=f'results/q1_{part}_dset{dset_id}_sample_without_noise.png')
+                    fname=f'results/hw2/q1_{part}_dset{dset_id}_sample_without_noise.png')
 
 
 def visualize_colored_shapes():
