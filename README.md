@@ -47,8 +47,8 @@ For each date topics planned for discussion are listed. You should look at the m
 * F 15/11
   * HW2 Q1 - **due before the course**, discussion in the course
   * HW2 Q2 part a - **Q&A**
-* W 20/11
-  * HW2 Q2 part a - **due before the course**, discussion in the course
+* W 20/11 - **NO COURSE! - take time to move ahead**
+  * HW2 Q2 part a - **due**, discussion on request possible via zoom
 * F 22/11 - **NO COURSE! - faculty away**
 * W 27/11
   * Generative Adversarial Networks / Implicit Models: [slides](https://drive.google.com/file/d/1yTNsk6swCp1pnuFVCarNPbuGmfOan_dN/view?usp=drive_link), [video](https://www.youtube.com/watch?v=lFAHPJS2HHc) - complete
