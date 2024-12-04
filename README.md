@@ -50,22 +50,20 @@ For each date topics planned for discussion are listed. You should look at the m
 * W 20/11 - **NO COURSE! - take time to move ahead**
   * HW2 Q2 part a - **due**, discussion on request possible via zoom
 * F 22/11 - **NO COURSE! - faculty away**
-* W 27/11
-  * Generative Adversarial Networks / Implicit Models: [slides](https://drive.google.com/file/d/1yTNsk6swCp1pnuFVCarNPbuGmfOan_dN/view?usp=drive_link), [video](https://www.youtube.com/watch?v=lFAHPJS2HHc) - complete
-* F 29/11
-  * HW3 Q1, Q2
+* W 27/11 - **NO COURSE! - take time to move ahead**
+* F 29/11 - **NO COURSE! - take time to move ahead**
 * W 4/12
-  * HW3 Q1, Q2
+  * Generative Adversarial Networks / Implicit Models: [slides](https://drive.google.com/file/d/1yTNsk6swCp1pnuFVCarNPbuGmfOan_dN/view?usp=drive_link), [video](https://www.youtube.com/watch?v=lFAHPJS2HHc) - complete
 * F 6/12
-  * HW3 Q1, Q2 - **due**
+  * HW3 Q1, Q2 - **Q&A on request - online**
 * W 11/12
-  * Diffusion models: [slides](https://drive.google.com/file/d/1JfY5gh8VmUksB4AT2qKg_C0roMtLieGA/view?usp=drive_link), [video](https://www.youtube.com/watch?v=DsEDMjdxOv4) 0:00 - 51:35
+  * HW3 Q1, Q2 - **Q&A**
 * F 13/12
-  * HW4 Q1, Q2
+  * HW3 Q1, Q2 - **due**
 * W 18/12
-  * Diffusion models: [slides](https://drive.google.com/file/d/1JfY5gh8VmUksB4AT2qKg_C0roMtLieGA/view?usp=drive_link), [video](https://www.youtube.com/watch?v=DsEDMjdxOv4) 51:35 - end
+  * Diffusion models: [slides](https://drive.google.com/file/d/1JfY5gh8VmUksB4AT2qKg_C0roMtLieGA/view?usp=drive_link), [video](https://www.youtube.com/watch?v=DsEDMjdxOv4) 0:00 - 51:35
 * F 20/12
-  * HW4 Q1, Q2
+  * HW4 Q1, Q2 - **Q&A on request - online**
 * W 8/1
   * HW4 Q1, Q2 - **due**
 * F 10/1
