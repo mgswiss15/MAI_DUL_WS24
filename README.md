@@ -58,24 +58,20 @@ For each date topics planned for discussion are listed. You should look at the m
   * HW3 Q1, Q2 - **Q&A on request - online**
 * W 11/12
   * HW3 Q1, Q2 - **Q&A**
-* F 13/12
-  * HW3 Q1, Q2 - **due**
+* F 13/12 - **NO COURSE! - take time to move ahead**
 * W 18/12
   * Diffusion models: [slides](https://drive.google.com/file/d/1JfY5gh8VmUksB4AT2qKg_C0roMtLieGA/view?usp=drive_link), [video](https://www.youtube.com/watch?v=DsEDMjdxOv4) 0:00 - 51:35
-* F 20/12
-  * HW4 Q1, Q2 - **Q&A on request - online**
+* F 20/12 - **NO COURSE! - take time to move ahead**
 * W 8/1
-  * HW4 Q1, Q2 - **due**
-* F 10/1
-  * Self-supervised learning: [slides](https://drive.google.com/file/d/1EwLaYmlTB0GbjviVUAmek3JPBWCQ00ZO/view?usp=drive_link), [video](https://youtu.be/s6xh6oKq1C0)
+  * HW3 Q1, Q2 - **due** and discussion !
+* F 10/1  - **NO COURSE! - take time to move ahead**
 * W 15/1
-  * Semi-supervised learning: [slides](https://drive.google.com/file/d/1EwLaYmlTB0GbjviVUAmek3JPBWCQ00ZO/view?usp=drive_link), [video](https://youtu.be/s6xh6oKq1C0)
-* F 17/1
-  * HW optional parts
+  * HW4 Q1, Q2 - **Q&A**
+* F 17/1  - **NO COURSE! - take time to move ahead**
 * W 22/1
-  * HW optional parts
+  * HW4 Q1, Q2 - **Q&A**
 * F 24/1
-  * HW optional parts - **due**
+  * **ALL HW DUE**
 
 
 ### Homeworks
@@ -86,12 +82,9 @@ For each date topics planned for discussion are listed. You should look at the m
 3. Once done with the HW, run the HW jupyter notebook from the beginning to the end and commit to freeze the state
 4. Sent me via mattermost the link to the specific commit in your fork on GitHub
 
-* [HW1 Q1](homeworks/hw1/hw1_Q1.ipynb) - due 16/10
-* [HW1 Q2 part a](homeworks/hw1/hw1_Q2_a.ipynb) - due 25/10
-* [HW1 Q2 part b](homeworks/hw1/hw1_Q2_b_optional.ipynb) - optional - due 24/1
-* [HW1 Q3 part a, b](homeworks/hw1/hw1_Q3_ab.ipynb) - due 25/10
-* [HW1 Q3 part c](homeworks/hw1/hw1_Q3_c_optional.ipynb) - optional - due 24/1
-* [HW1 Q4](homeworks/hw1/hw1_Q4_optional.ipynb) - optional - due 24/1
-* [HW1 Q5](homeworks/hw1/hw1_Q5.ipynb) -  - due 25/10
+### Evaluation
 
+* all HW shall be submitted by Friday 24/1
+* for excellent grade solutions for all obligatory parts shall be solved and the solutions shall be good
+* each unsolved exercise (or solved badly) will worsen the grade by one step (from 1 to 1.3, 1.7 etc.)
 
